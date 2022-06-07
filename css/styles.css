@@ -1,0 +1,38 @@
+.nav-link{
+    color: white;
+}
+label{
+    margin-right: 28vmax;
+    width: 4vmax;
+}
+.nav a img{
+    width: 4vmax;
+    margin-right: 28vmax;
+
+}
+.banner {
+    height: 48vmax;
+    width: 100%;
+    text-align: center;
+    background-image: url(../images/iStock-1158090117_wide.jpg.pagespeed.ce.xW9AjxfZNw.jpg);
+    background-size: cover;
+}
+.banner h2{
+    font-size: 13.5vmax;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 3px 4px blueviolet;
+}
+.banner p{
+    font-size: 3vmax;
+    color: whitesmoke;
+    font-style: italic;
+    text-shadow: 2px 3px blueviolet;
+}
+footer img{
+    width: 12vmax;
+
+}
+.Gel img{
+    width: 15vmax;
+}
